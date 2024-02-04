@@ -29,6 +29,7 @@ public class VaccineFinderTest {
 	@Test(priority=1, enabled = true)
 	public void SearchOperation() throws InterruptedException
 	{
+		
 		VaccineFinderPage page = new VaccineFinderPage(driver);
 		page.SearchState("Kerala");
 		Thread.sleep(5000);
