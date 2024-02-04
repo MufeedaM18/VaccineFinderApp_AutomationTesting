@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T15:28:19 IST" name="Default suite" finished-at="2024-02-02T15:29:28 IST" duration-ms="69502">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T15:28:19 IST" name="Default test" finished-at="2024-02-02T15:29:28 IST" duration-ms="69502">
+      <class name="com.tect.vaccinefinder.Test.VaccineFinderTest">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.tect.vaccinefinder.Test.VaccineFinderTest@2d901eb0]" started-at="2024-02-02T15:28:19 IST" name="beforetest" finished-at="2024-02-02T15:28:22 IST" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="SearchOperation()[pri:1, instance:com.tect.vaccinefinder.Test.VaccineFinderTest@2d901eb0]" started-at="2024-02-02T15:28:22 IST" name="SearchOperation" finished-at="2024-02-02T15:28:32 IST" duration-ms="10180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOperation -->
+        <test-method signature="Validatebuttons()[pri:2, instance:com.tect.vaccinefinder.Test.VaccineFinderTest@2d901eb0]" started-at="2024-02-02T15:28:32 IST" name="Validatebuttons" finished-at="2024-02-02T15:28:52 IST" duration-ms="20372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatebuttons -->
+        <test-method signature="ValidateLinks()[pri:3, instance:com.tect.vaccinefinder.Test.VaccineFinderTest@2d901eb0]" started-at="2024-02-02T15:28:52 IST" name="ValidateLinks" finished-at="2024-02-02T15:29:28 IST" duration-ms="35990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLinks -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.tect.vaccinefinder.Test.VaccineFinderTest@2d901eb0]" started-at="2024-02-02T15:29:28 IST" name="aftertest" finished-at="2024-02-02T15:29:28 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.tect.vaccinefinder.Test.VaccineFinderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
